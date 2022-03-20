@@ -10,7 +10,7 @@ El archivo .gitignore, es un archivo de texto que le dice a Git qué archivos o 
 A menudo, se tendrá una clase de archivos que no deseamos que Git agregue automáticamente o que incluso nos muestre como sin seguimiento. Por lo general, estos son archivos generados automáticamente, como archivos de registro o archivos producidos por un sistema de compilación.
 
 **¿Cómo configuraría el archivo .gitignore?**
-_Las entradas de este archivo también pueden ser_
+_Las entradas de este archivo van con_
 
 1. "*" se utiliza como una coincidencia comodín.
 2. '/' se usa para ignorar las rutas relativas al archivo .gitignore.
