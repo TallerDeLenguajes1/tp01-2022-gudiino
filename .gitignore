@@ -1,0 +1,14 @@
+### Git ###
+# Creado por git para copias de seguridad. Para deshabilitar las copias de seguridad en Git:
+# $ git config --global mergetool.keepBackup falso
+*.orig
+
+# Creado por git al usar herramientas de fusión para conflictos
+*.RESPALDO.*
+*.BASE.*
+*.LOCAL.*
+*.REMOTO.*
+*_RESPALDO_*.txt
+*_BASE_*.txt
+*_LOCAL_*.txt
+*_REMOTO_*.txt
