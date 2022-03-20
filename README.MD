@@ -1,4 +1,6 @@
 # tp12022
+Desarrollo del primer practico de taller de lenguaje 1
+
 ## Archivo .gitignore
 
 **¿Por qué es conviniente incluirlo?**
@@ -15,6 +17,7 @@ _Las entradas de este archivo también pueden ser_
 3. '#' es usado para agregar comentarios
 
 _ejemplos_
+
 '# Ignora archivos del sistema Mac '
 .DS_store
 
@@ -29,4 +32,5 @@ node_modules
 
 '# Ignora archivos de configuración SASS'
 .sass-cache
-[MAS EJEMPLOS EN](https://www.atlassian.com/es/git/tutorials/saving-changes/gitignore)
+
+[MAS EJEMPLOS AQUÍ](https://www.atlassian.com/es/git/tutorials/saving-changes/gitignore)
